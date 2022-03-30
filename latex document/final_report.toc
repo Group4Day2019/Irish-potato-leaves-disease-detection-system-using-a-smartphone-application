@@ -1,0 +1,89 @@
+\contentsline {chapter}{\numberline {1}Introduction}{2}%
+\contentsline {section}{\numberline {1.1}Background}{2}%
+\contentsline {section}{\numberline {1.2}Problem Statement.}{2}%
+\contentsline {section}{\numberline {1.3}Objectives}{3}%
+\contentsline {subsection}{\numberline {1.3.1}Main Objective}{3}%
+\contentsline {subsection}{\numberline {1.3.2}Specific Objectives}{3}%
+\contentsline {section}{\numberline {1.4}Scope}{3}%
+\contentsline {section}{\numberline {1.5}Significance}{3}%
+\contentsline {chapter}{\numberline {2}Literature Review}{5}%
+\contentsline {section}{\numberline {2.1}Introduction.}{5}%
+\contentsline {section}{\numberline {2.2}A brief overview about Convolutional Neural Networks (CNN).}{5}%
+\contentsline {subsection}{\numberline {2.2.1}Introduction.}{5}%
+\contentsline {subsection}{\numberline {2.2.2}CNN architecture with its layers.}{6}%
+\contentsline {section}{\numberline {2.3}Convolutional Neural Networks (CNN) in Agriculture and its applications.}{8}%
+\contentsline {subsection}{\numberline {2.3.1}How CNN works.}{8}%
+\contentsline {subsection}{\numberline {2.3.2}Its application in agriculture.}{9}%
+\contentsline {section}{\numberline {2.4}Convolutional Neural Networks (CNN) in other fields.}{10}%
+\contentsline {subsection}{\numberline {2.4.1}Anomaly Detection.}{10}%
+\contentsline {subsection}{\numberline {2.4.2}Drug discovery.}{10}%
+\contentsline {subsection}{\numberline {2.4.3}Video analysis.}{10}%
+\contentsline {subsection}{\numberline {2.4.4}Time series forecasting.}{10}%
+\contentsline {subsection}{\numberline {2.4.5}Natural language processing.}{11}%
+\contentsline {subsection}{\numberline {2.4.6}Health risk assessment and biomarkers of aging discovery}{11}%
+\contentsline {section}{\numberline {2.5}Existing methods used for Irish potato leaf disease detection.}{11}%
+\contentsline {section}{\numberline {2.6}Data sources.}{11}%
+\contentsline {subsection}{\numberline {2.6.1}Plant Village Dataset description.}{11}%
+\contentsline {subsection}{\numberline {2.6.2}Potato Leaf Disease Dataset description.}{12}%
+\contentsline {chapter}{\numberline {3}Research Methodology.}{13}%
+\contentsline {section}{\numberline {3.1}Introduction.}{13}%
+\contentsline {section}{\numberline {3.2}Research Design.}{13}%
+\contentsline {subsection}{\numberline {3.2.1}Studying or reviewing the existing literature.}{13}%
+\contentsline {subsection}{\numberline {3.2.2}Interviews.}{13}%
+\contentsline {subsection}{\numberline {3.2.3}Data collection.}{14}%
+\contentsline {subsection}{\numberline {3.2.4}Observation.}{14}%
+\contentsline {section}{\numberline {3.3}Research Strategy.}{14}%
+\contentsline {subsection}{\numberline {3.3.1}Data collection.}{14}%
+\contentsline {subsection}{\numberline {3.3.2}Data preprocessing and cleansing.}{14}%
+\contentsline {subsection}{\numberline {3.3.3}Model formulation and building.}{15}%
+\contentsline {subsection}{\numberline {3.3.4}Model testing.}{16}%
+\contentsline {chapter}{\numberline {4}Data collection, model building and Training.}{17}%
+\contentsline {section}{\numberline {4.1}Introduction.}{17}%
+\contentsline {section}{\numberline {4.2}Dataset description.}{17}%
+\contentsline {subsection}{\numberline {4.2.1}Plant Village dataset.}{17}%
+\contentsline {subsection}{\numberline {4.2.2}Potato Disease Leaf dataset.}{17}%
+\contentsline {section}{\numberline {4.3}Technology decisions.}{18}%
+\contentsline {subsection}{\numberline {4.3.1}Overview.}{18}%
+\contentsline {subsection}{\numberline {4.3.2}Python.}{18}%
+\contentsline {subsection}{\numberline {4.3.3}Anaconda.}{18}%
+\contentsline {subsection}{\numberline {4.3.4}Numpy.}{18}%
+\contentsline {subsection}{\numberline {4.3.5}Pandas.}{19}%
+\contentsline {subsection}{\numberline {4.3.6}Matplotlib.}{19}%
+\contentsline {subsection}{\numberline {4.3.7}OpenCV.}{19}%
+\contentsline {subsection}{\numberline {4.3.8}Tensorflow.}{19}%
+\contentsline {subsection}{\numberline {4.3.9}Keras.}{19}%
+\contentsline {subsection}{\numberline {4.3.10}Jupyter Notebook IDE.}{19}%
+\contentsline {subsection}{\numberline {4.3.11}Google Colab.}{19}%
+\contentsline {section}{\numberline {4.4}Experimental tests.}{20}%
+\contentsline {section}{\numberline {4.5}Steps taken to build the machine learning model.}{21}%
+\contentsline {subsection}{\numberline {4.5.1}Data preparation.}{21}%
+\contentsline {subsection}{\numberline {4.5.2}Model formulation/Model building.}{21}%
+\contentsline {subsection}{\numberline {4.5.3}Model implementation.}{23}%
+\contentsline {subsection}{\numberline {4.5.4}Evaluation metrics.}{23}%
+\contentsline {section}{\numberline {4.6}Results/Performance.}{24}%
+\contentsline {subsection}{\numberline {4.6.1}Evaluation Measures.}{24}%
+\contentsline {subsection}{\numberline {4.6.2}Discussion of the results.}{24}%
+\contentsline {subsection}{\numberline {4.6.3}Cross dataset performance.}{33}%
+\contentsline {section}{\numberline {4.7}Conclusion.}{33}%
+\contentsline {chapter}{\numberline {5}Mobile Application Design.}{34}%
+\contentsline {section}{\numberline {5.1}System Design.}{34}%
+\contentsline {subsection}{\numberline {5.1.1}Use Case diagram.}{34}%
+\contentsline {subsection}{\numberline {5.1.2}Architecture design.}{35}%
+\contentsline {subsection}{\numberline {5.1.3}Data flow diagram.}{35}%
+\contentsline {subsection}{\numberline {5.1.4}Flow chart.}{37}%
+\contentsline {section}{\numberline {5.2}Technology decisions.}{37}%
+\contentsline {subsection}{\numberline {5.2.1}Android Application Development.}{37}%
+\contentsline {subsection}{\numberline {5.2.2}Flutter.}{37}%
+\contentsline {subsection}{\numberline {5.2.3}Flask.}{38}%
+\contentsline {section}{\numberline {5.3}System implementation.}{38}%
+\contentsline {subsection}{\numberline {5.3.1}Android App features.}{38}%
+\contentsline {subsection}{\numberline {5.3.2}Android App Interfaces.}{39}%
+\contentsline {chapter}{\numberline {6}Conclusion and Future work.}{42}%
+\contentsline {section}{\numberline {6.1}Conclusion.}{42}%
+\contentsline {section}{\numberline {6.2}Limitations of our study.}{42}%
+\contentsline {section}{\numberline {6.3}Future work.}{42}%
+\contentsline {chapter}{\numberline {7}Appendix and References.}{43}%
+\contentsline {section}{\numberline {7.1}References.}{43}%
+\contentsline {section}{\numberline {7.2}Github repository link.}{51}%
+\contentsline {section}{\numberline {7.3}Places to visit.}{51}%
+\contentsline {section}{\numberline {7.4}\ignorespaces Diseases and defects of potatoes.}{52}%
